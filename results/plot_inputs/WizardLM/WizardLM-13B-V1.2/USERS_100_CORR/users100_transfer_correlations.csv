@@ -1,0 +1,16 @@
+beta,trait,n_users,spearman_rho,spearman_p
+0.01,Openness,100,0.6811,0
+0.01,Conscientiousness,100,0.7211,0
+0.01,Extraversion,100,0.7546,0
+0.01,Agreeableness,100,0.6774,0
+0.01,Neuroticism,100,0.0663,0.5106
+0.1,Openness,100,0.6641,0
+0.1,Conscientiousness,100,0.6003,1.077e-13
+0.1,Extraversion,100,0.6117,1.954e-14
+0.1,Agreeableness,100,0.5666,9.909e-12
+0.1,Neuroticism,100,-0.1323,0.1865
+0.5,Openness,100,0.4560,3.919e-07
+0.5,Conscientiousness,100,0.5027,8.562e-09
+0.5,Extraversion,100,0.6321,6.661e-16
+0.5,Agreeableness,100,0.6484,0
+0.5,Neuroticism,100,0.0015,0.9883

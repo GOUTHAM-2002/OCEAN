@@ -1,0 +1,46 @@
+task,task_slug,trait_code,trait,n_adapters,pearson_r,pearson_p
+HHH alignment,hhh_alignment,O,Openness,1042,-0.14256447,3.835943e-06
+HHH alignment,hhh_alignment,C,Conscientiousness,1042,-0.11519188,0.00019427717
+HHH alignment,hhh_alignment,E,Extraversion,1042,-0.11754455,0.00014296755
+HHH alignment,hhh_alignment,A,Agreeableness,1042,-0.035026103,0.2586309
+HHH alignment,hhh_alignment,N,Neuroticism,1042,0.12779075,3.5170761e-05
+Sycophancy (mean of 3),sycophancy,O,Openness,1042,0.087083995,0.0049074786
+Sycophancy (mean of 3),sycophancy,C,Conscientiousness,1042,-0.018782549,0.54476258
+Sycophancy (mean of 3),sycophancy,E,Extraversion,1042,0.095412963,0.0020473753
+Sycophancy (mean of 3),sycophancy,A,Agreeableness,1042,0.17674603,9.2577578e-09
+Sycophancy (mean of 3),sycophancy,N,Neuroticism,1042,0.073548202,0.017572517
+ETHICS commonsense,ethics_cm,O,Openness,1042,0.33149168,3.8113188e-28
+ETHICS commonsense,ethics_cm,C,Conscientiousness,1042,0.3749936,3.9179407e-36
+ETHICS commonsense,ethics_cm,E,Extraversion,1042,0.38940205,4.6123602e-39
+ETHICS commonsense,ethics_cm,A,Agreeableness,1042,0.23013973,5.4284142e-14
+ETHICS commonsense,ethics_cm,N,Neuroticism,1042,-0.35529037,2.3231747e-32
+ETHICS deontology,ethics_deontology,O,Openness,1042,-0.51574757,6.9671857e-72
+ETHICS deontology,ethics_deontology,C,Conscientiousness,1042,-0.5517351,4.718961e-84
+ETHICS deontology,ethics_deontology,E,Extraversion,1042,-0.55984038,5.2885164e-87
+ETHICS deontology,ethics_deontology,A,Agreeableness,1042,-0.42917665,6.0873591e-48
+ETHICS deontology,ethics_deontology,N,Neuroticism,1042,0.54556342,7.357903e-82
+ETHICS justice,ethics_justice,O,Openness,1042,-0.53601323,1.483898e-78
+ETHICS justice,ethics_justice,C,Conscientiousness,1042,-0.53367316,9.2274508e-78
+ETHICS justice,ethics_justice,E,Extraversion,1042,-0.5757547,4.8661056e-93
+ETHICS justice,ethics_justice,A,Agreeableness,1042,-0.44221869,4.0125767e-51
+ETHICS justice,ethics_justice,N,Neuroticism,1042,0.51992357,3.1986733e-73
+ETHICS utilitarianism,ethics_utilitarianism,O,Openness,1042,0.45316082,6.6924656e-54
+ETHICS utilitarianism,ethics_utilitarianism,C,Conscientiousness,1042,0.46089101,6.3280629e-56
+ETHICS utilitarianism,ethics_utilitarianism,E,Extraversion,1042,0.39294159,8.3502151e-40
+ETHICS utilitarianism,ethics_utilitarianism,A,Agreeableness,1042,0.48244907,7.4747964e-62
+ETHICS utilitarianism,ethics_utilitarianism,N,Neuroticism,1042,-0.51997981,3.0677744e-73
+ETHICS virtue,ethics_virtue,O,Openness,1042,-0.6096801,4.4756396e-107
+ETHICS virtue,ethics_virtue,C,Conscientiousness,1042,-0.57099553,3.3647182e-91
+ETHICS virtue,ethics_virtue,E,Extraversion,1042,-0.63721398,8.7406082e-120
+ETHICS virtue,ethics_virtue,A,Agreeableness,1042,-0.62643695,1.1705605e-114
+ETHICS virtue,ethics_virtue,N,Neuroticism,1042,0.55980359,5.4564221e-87
+Moral stories (acc_norm),moral_stories,O,Openness,1042,0.45849458,2.7189397e-55
+Moral stories (acc_norm),moral_stories,C,Conscientiousness,1042,0.54494822,1.2101802e-81
+Moral stories (acc_norm),moral_stories,E,Extraversion,1042,0.47851522,9.7072867e-61
+Moral stories (acc_norm),moral_stories,A,Agreeableness,1042,0.44294405,2.6448493e-51
+Moral stories (acc_norm),moral_stories,N,Neuroticism,1042,-0.58304672,6.4416141e-96
+"CrowS-Pairs (%stereotype, lower=better)",crows_pairs_english,O,Openness,1042,0.15110864,9.5788453e-07
+"CrowS-Pairs (%stereotype, lower=better)",crows_pairs_english,C,Conscientiousness,1042,0.099999236,0.0012283758
+"CrowS-Pairs (%stereotype, lower=better)",crows_pairs_english,E,Extraversion,1042,0.14987827,1.1753879e-06
+"CrowS-Pairs (%stereotype, lower=better)",crows_pairs_english,A,Agreeableness,1042,0.16500195,8.4788413e-08
+"CrowS-Pairs (%stereotype, lower=better)",crows_pairs_english,N,Neuroticism,1042,-0.10132719,0.0010553061

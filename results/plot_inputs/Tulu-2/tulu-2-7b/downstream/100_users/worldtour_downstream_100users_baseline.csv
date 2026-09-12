@@ -1,0 +1,10 @@
+task,baseline_score
+HHH alignment,0.4343891402714932
+Sycophancy (mean of 3),0.7493333333333334
+ETHICS commonsense,0.728
+ETHICS deontology,0.644
+ETHICS justice,0.648
+ETHICS utilitarianism,0.526
+ETHICS virtue,0.852
+Moral stories (acc_norm),0.594
+"CrowS-Pairs (%stereotype, lower=better)",0.628

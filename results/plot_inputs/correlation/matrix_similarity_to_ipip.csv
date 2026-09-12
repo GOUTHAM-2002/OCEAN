@@ -1,0 +1,5 @@
+model,n_users,raw_matrix_similarity,polarity_aligned_similarity,raw_mean_absolute_difference,polarity_aligned_mean_absolute_difference
+WizardLM-13B-v1.2,1000,0.670262,0.914948,0.692792,0.537458
+Tulu-2-7B,1000,0.636674,0.855756,0.515628,0.360295
+Vicuna-13B-v1.5,1000,0.677500,0.916111,0.667181,0.511847
+Nous-Hermes Mixtral,1000,0.676413,0.907742,0.588003,0.432670

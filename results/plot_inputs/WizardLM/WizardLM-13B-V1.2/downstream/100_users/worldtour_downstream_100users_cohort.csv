@@ -1,0 +1,101 @@
+adapter_id,country,age_bracket,sex
+0,USA,18-24,male
+8,USA,18-24,male
+21,USA,18-24,male
+25,USA,18-24,female
+43,USA,18-24,female
+51,USA,25-34,male
+60,USA,25-34,male
+82,USA,25-34,female
+88,USA,25-34,female
+106,USA,35+,male
+113,USA,35+,male
+142,USA,35+,female
+149,USA,35+,female
+150,India,18-24,male
+168,India,18-24,male
+171,India,18-24,male
+178,India,18-24,female
+180,India,18-24,female
+191,India,18-24,female
+200,India,25-34,male
+205,India,25-34,male
+220,India,25-34,male
+222,India,25-34,male
+235,India,25-34,female
+240,India,25-34,female
+264,India,35+,male
+267,India,35+,male
+273,India,35+,male
+281,India,35+,female
+293,India,35+,female
+312,China,18-24,male
+314,China,18-24,male
+317,China,18-24,male
+327,China,18-24,female
+346,China,18-24,female
+356,China,25-34,male
+363,China,25-34,male
+377,China,25-34,female
+378,China,25-34,female
+418,China,35+,male
+424,China,35+,male
+426,China,35+,female
+435,China,35+,female
+448,China,35+,female
+467,South Afric,18-24,male
+472,South Afric,18-24,male
+495,South Afric,18-24,female
+498,South Afric,18-24,female
+508,South Afric,25-34,male
+509,South Afric,25-34,male
+543,South Afric,25-34,female
+544,South Afric,25-34,female
+561,South Afric,35+,male
+563,South Afric,35+,male
+570,South Afric,35+,male
+571,South Afric,35+,male
+582,South Afric,35+,female
+598,South Afric,35+,female
+601,Germany,18-24,male
+608,Germany,18-24,male
+635,Germany,18-24,female
+645,Germany,18-24,female
+658,Germany,25-34,male
+671,Germany,25-34,male
+674,Germany,25-34,male
+678,Germany,25-34,female
+695,Germany,25-34,female
+722,Germany,35+,male
+724,Germany,35+,male
+728,Germany,35+,female
+733,Germany,35+,female
+737,Germany,35+,female
+761,Australia,18-24,male
+762,Australia,18-24,male
+780,Australia,18-24,female
+796,Australia,18-24,female
+814,Australia,25-34,male
+820,Australia,25-34,male
+833,Australia,25-34,female
+847,Australia,25-34,female
+858,Australia,35+,male
+871,Australia,35+,male
+872,Australia,35+,male
+889,Australia,35+,female
+890,Australia,35+,female
+904,Brazil,18-24,male
+923,Brazil,18-24,male
+927,Brazil,18-24,female
+929,Brazil,18-24,female
+936,Brazil,18-24,female
+938,Brazil,18-24,female
+944,Brazil,18-24,female
+957,Brazil,25-34,male
+963,Brazil,25-34,male
+978,Brazil,25-34,female
+990,Brazil,25-34,female
+1004,Brazil,35+,male
+1019,Brazil,35+,male
+1033,Brazil,35+,female
+1044,Brazil,35+,female

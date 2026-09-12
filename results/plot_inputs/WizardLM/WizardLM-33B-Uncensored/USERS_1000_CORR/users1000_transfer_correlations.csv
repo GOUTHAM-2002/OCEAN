@@ -1,0 +1,6 @@
+beta,trait,n_users,pearson_r,pearson_p
+0.01,Openness,1000,0.2948,0
+0.01,Conscientiousness,1000,0.6392,0
+0.01,Extraversion,1000,0.6746,0
+0.01,Agreeableness,1000,0.4591,0
+0.01,Neuroticism,1000,0.4060,0

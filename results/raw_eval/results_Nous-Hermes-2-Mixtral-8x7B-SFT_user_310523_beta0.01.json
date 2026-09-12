@@ -1,0 +1,50 @@
+{
+  "model": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
+  "adapter": "/mnt/ssd3/tmp/goutham/user_adapters_1000/Nous-Hermes-2-Mixtral-8x7B-SFT/user_310523_beta0.01",
+  "table": {
+    "BFI-2": {
+      "O": [
+        4.28,
+        0.39
+      ],
+      "C": [
+        4.27,
+        0.13
+      ],
+      "E": [
+        3.77,
+        0.22
+      ],
+      "A": [
+        4.85,
+        0.13
+      ],
+      "N": [
+        1.87,
+        0.28
+      ]
+    },
+    "FFPI": {
+      "O": [
+        3.19,
+        0.33
+      ],
+      "C": [
+        3.35,
+        0.59
+      ],
+      "E": [
+        3.29,
+        0.51
+      ],
+      "A": [
+        3.36,
+        0.61
+      ],
+      "N": [
+        2.65,
+        0.6
+      ]
+    }
+  }
+}

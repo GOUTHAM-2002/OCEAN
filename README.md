@@ -64,7 +64,13 @@ OCEAN/
 │   ├── 06_downstream/         benchmark battery (sycophancy, ethics, HHH, MMLU, ...)
 │   ├── 07_interp/             mechanistic probes: sparse autoencoders, steering, LoRA deltas
 │   └── 08_plots/              every figure in the project is regenerated from here
-├── results/                   headline summary tables (correlations, t-tests)
+├── results/
+│   ├── raw_eval/              all ~7000 questionnaire evaluation jsons from our runs
+│   ├── downstream/            benchmark summaries (per-sample dumps excluded)
+│   ├── eval_dirs/             per-adapter scores for the 100-user and side experiments
+│   ├── plot_inputs/           aggregated tables some plot scripts read
+│   └── *.csv                  headline summary tables (correlations, t-tests)
+├── reproduce_figures.sh       regenerates the headline figures from results/ (no GPU)
 ├── requirements.txt
 └── LICENSE
 ```
@@ -140,20 +146,18 @@ python3 pipeline/06_downstream/downstream_aggregate.py
 steering, and LoRA weight-delta analysis of what the personality shift looks like
 inside the model: `pipeline/07_interp/`.
 
-**8. Figures.** Every plot regenerates from `pipeline/08_plots/`:
+**8. Figures.** All evaluation outputs from our runs ship in `results/`, so every
+headline figure regenerates without touching a GPU:
 
 ```bash
-# the 1000-annotator scatter + correlation table (per model)
-SWEEP_SHORT=WizardLM-33B-Uncensored SWEEP_FAMILY=WizardLM USERS_FILE=data/annotators/user_ids_1000.json \
-  python3 pipeline/08_plots/user_corr_plots_1000.py
-
-python3 pipeline/08_plots/wiz_agent_plots.py            # agent HIGH/LOW panels
-python3 pipeline/08_plots/downstream_trait_scatter_model_average.py
-python3 pipeline/08_plots/build_g_plots_viewer.py       # one-page interactive viewer of all plots
+bash reproduce_figures.sh     # writes to work/g_plots/
 ```
 
-Evaluation writes `results_<model>_<variant>_beta<b>.json` files; the plot scripts
-read those from the working directory, so run each phase from the repository root.
+This remakes the 1000-annotator scatters for all five models, the synthetic-agent
+HIGH/LOW panels, and the downstream model-average scatters, and prints the
+correlation tables shown above. The other figure scripts in `pipeline/08_plots/`
+work the same way: they read `results*.json` files from the working directory
+(`reproduce_figures.sh` shows the staging pattern in `work/`).
 
 ## Data files
 

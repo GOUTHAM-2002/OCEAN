@@ -1,0 +1,8 @@
+model,n_configs,n_sig_change,n_sig_drop,n_sig_gain,worst_drop_config,worst_drop_delta
+tulu-2-7b,30,0,0,0,E LOW β=0.01,-0.0018
+tulu-2-13b,30,0,0,0,E LOW β=0.01,-0.0026
+vicuna-7b-v1.5,30,0,0,0,A LOW β=0.01,-0.0029
+vicuna-13b-v1.5,30,0,0,0,E LOW β=0.5,-0.0045
+wizardLM-7B,30,0,0,0,A LOW β=0.01,-0.0058
+WizardLM-13B-V1.2,0,0,0,0,,
+Nous-Hermes-2-Mixtral-8x7B-SFT,30,0,0,0,C LOW β=0.01,-0.0046

@@ -1,0 +1,51 @@
+source,trait_1,trait_2,pearson_r
+IPIP-NEO-300 users,Openness,Conscientiousness,0.426218
+IPIP-NEO-300 users,Openness,Extraversion,0.486244
+IPIP-NEO-300 users,Openness,Agreeableness,0.462556
+IPIP-NEO-300 users,Openness,Neuroticism,0.241614
+IPIP-NEO-300 users,Conscientiousness,Extraversion,0.557224
+IPIP-NEO-300 users,Conscientiousness,Agreeableness,0.476495
+IPIP-NEO-300 users,Conscientiousness,Neuroticism,0.025155
+IPIP-NEO-300 users,Extraversion,Agreeableness,0.294204
+IPIP-NEO-300 users,Extraversion,Neuroticism,0.009561
+IPIP-NEO-300 users,Agreeableness,Neuroticism,0.500339
+WizardLM-13B-v1.2,Openness,Conscientiousness,0.896808
+WizardLM-13B-v1.2,Openness,Extraversion,0.907126
+WizardLM-13B-v1.2,Openness,Agreeableness,0.875329
+WizardLM-13B-v1.2,Openness,Neuroticism,-0.857607
+WizardLM-13B-v1.2,Conscientiousness,Extraversion,0.890918
+WizardLM-13B-v1.2,Conscientiousness,Agreeableness,0.903464
+WizardLM-13B-v1.2,Conscientiousness,Neuroticism,-0.919796
+WizardLM-13B-v1.2,Extraversion,Agreeableness,0.860712
+WizardLM-13B-v1.2,Extraversion,Neuroticism,-0.855107
+WizardLM-13B-v1.2,Agreeableness,Neuroticism,-0.887322
+Tulu-2-7B,Openness,Conscientiousness,0.466669
+Tulu-2-7B,Openness,Extraversion,0.443301
+Tulu-2-7B,Openness,Agreeableness,0.353103
+Tulu-2-7B,Openness,Neuroticism,-0.343246
+Tulu-2-7B,Conscientiousness,Extraversion,0.867161
+Tulu-2-7B,Conscientiousness,Agreeableness,0.894451
+Tulu-2-7B,Conscientiousness,Neuroticism,-0.832224
+Tulu-2-7B,Extraversion,Agreeableness,0.859155
+Tulu-2-7B,Extraversion,Neuroticism,-0.851194
+Tulu-2-7B,Agreeableness,Neuroticism,-0.867263
+Vicuna-13B-v1.5,Openness,Conscientiousness,0.907335
+Vicuna-13B-v1.5,Openness,Extraversion,0.849043
+Vicuna-13B-v1.5,Openness,Agreeableness,0.894181
+Vicuna-13B-v1.5,Openness,Neuroticism,-0.892342
+Vicuna-13B-v1.5,Conscientiousness,Extraversion,0.801421
+Vicuna-13B-v1.5,Conscientiousness,Agreeableness,0.932630
+Vicuna-13B-v1.5,Conscientiousness,Neuroticism,-0.906107
+Vicuna-13B-v1.5,Extraversion,Agreeableness,0.718556
+Vicuna-13B-v1.5,Extraversion,Neuroticism,-0.839270
+Vicuna-13B-v1.5,Agreeableness,Neuroticism,-0.857194
+Nous-Hermes Mixtral,Openness,Conscientiousness,0.686735
+Nous-Hermes Mixtral,Openness,Extraversion,0.775517
+Nous-Hermes Mixtral,Openness,Agreeableness,0.799396
+Nous-Hermes Mixtral,Openness,Neuroticism,-0.596903
+Nous-Hermes Mixtral,Conscientiousness,Extraversion,0.797598
+Nous-Hermes Mixtral,Conscientiousness,Agreeableness,0.912756
+Nous-Hermes Mixtral,Conscientiousness,Neuroticism,-0.927445
+Nous-Hermes Mixtral,Extraversion,Agreeableness,0.754680
+Nous-Hermes Mixtral,Extraversion,Neuroticism,-0.728296
+Nous-Hermes Mixtral,Agreeableness,Neuroticism,-0.826980
