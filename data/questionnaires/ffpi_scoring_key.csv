@@ -1,0 +1,6 @@
+response_code,answer_choice,points
+1,Very Inaccurate,1
+2,Moderately Inaccurate,2
+3,Neither Accurate Nor Inaccurate,3
+4,Moderately Accurate,4
+5,Very Accurate,5

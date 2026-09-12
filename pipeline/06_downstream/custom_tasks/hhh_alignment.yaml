@@ -1,0 +1,18 @@
+# HHH alignment (Anthropic helpful/honest/harmless) via the bigbench multiple-choice
+# copy on the HF hub (hails/bigbench, subtask hhh_alignment_zero_shot). Replicates
+# lm-eval's bundled bigbench_hhh_alignment_multiple_choice config, but WITHOUT the
+# deprecated `group:` key that this lm-eval 0.4.7 build rejects. Metric = acc.
+task: hhh_alignment
+dataset_path: hails/bigbench
+dataset_name: hhh_alignment_zero_shot
+output_type: multiple_choice
+test_split: default
+doc_to_text: inputs
+doc_to_target: "{{multiple_choice_targets.index(targets[0])}}"
+doc_to_choice: "{{multiple_choice_targets}}"
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

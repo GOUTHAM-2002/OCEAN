@@ -1,0 +1,101 @@
+item_id,item_number,domain_code,domain,scoring_direction,question_text
+F1,1,E,Extraversion,forward,takes time out to chat
+F2,2,N,Neuroticism,forward,gets angry easily
+F3,3,C,Conscientiousness,reverse,acts without planning
+F4,4,N,Neuroticism,forward,feels desperate
+F5,5,O,Openness,reverse,does as he/she is told
+F6,6,E,Extraversion,forward,gets the party going
+F7,7,A,Agreeableness,forward,goes out of his/her way for others
+F8,8,C,Conscientiousness,forward,loves order and regularity
+F9,9,N,Neuroticism,reverse,thinks that all will be well
+F10,10,O,Openness,reverse,echoes what others say
+F11,11,E,Extraversion,reverse,keeps in the background
+F12,12,A,Agreeableness,forward,inquires about others' well-being
+F13,13,C,Conscientiousness,forward,likes to follow a regular schedule
+F14,14,N,Neuroticism,forward,invents problems for himself/herself
+F15,15,O,Openness,forward,decides things on his/her own
+F16,16,E,Extraversion,reverse,feels uncomfortable
+F17,17,A,Agreeableness,forward,takes others' interests into account
+F18,18,C,Conscientiousness,reverse,leaves his/her belongings around
+F19,19,N,Neuroticism,reverse,is able to see the best in a situation
+F20,20,O,Openness,forward,takes charge
+F21,21,E,Extraversion,reverse,speaks softly
+F22,22,A,Agreeableness,forward,waits for his/her turn
+F23,23,O,Openness,forward,does things that others find strange
+F24,24,N,Neuroticism,forward,is afraid that he/she will do the wrong thing
+F25,25,O,Openness,reverse,will believe anything
+F26,26,N,Neuroticism,reverse,has a lot of fun
+F27,27,A,Agreeableness,forward,accepts people as they are
+F28,28,C,Conscientiousness,reverse,does crazy things
+F29,29,N,Neuroticism,reverse,keeps his/her emotions under control
+F30,30,O,Openness,reverse,is easily deterred
+F31,31,E,Extraversion,reverse,avoids company
+F32,32,A,Agreeableness,reverse,sees to his/her own needs first
+F33,33,C,Conscientiousness,reverse,does things at the last minute
+F34,34,N,Neuroticism,forward,has a dark outlook on the future
+F35,35,O,Openness,forward,takes risks
+F36,36,E,Extraversion,forward,loves large parties
+F37,37,A,Agreeableness,forward,tries to prevent quarrels
+F38,38,C,Conscientiousness,forward,accomplishes his/her work on time
+F39,39,N,Neuroticism,forward,fears for the worst
+F40,40,O,Openness,reverse,lets others make the decisions
+F41,41,E,Extraversion,forward,loves to chat
+F42,42,A,Agreeableness,reverse,starts fights
+F43,43,C,Conscientiousness,forward,behaves properly
+F44,44,N,Neuroticism,reverse,readily overcomes setbacks
+F45,45,O,Openness,forward,looks at things from different angles
+F46,46,E,Extraversion,reverse,is apprehensive about new encounters
+F47,47,A,Agreeableness,forward,respects others' feelings
+F48,48,C,Conscientiousness,forward,works according to a routine
+F49,49,N,Neuroticism,reverse,can stand a great deal of stress
+F50,50,O,Openness,forward,takes the initiative
+F51,51,E,Extraversion,forward,cheers people up
+F52,52,A,Agreeableness,reverse,uses others for his/her own ends
+F53,53,C,Conscientiousness,reverse,seeks danger
+F54,54,N,Neuroticism,forward,bursts into tears
+F55,55,O,Openness,reverse,does what others want him/her to do
+F56,56,E,Extraversion,reverse,keeps apart from others
+F57,57,A,Agreeableness,forward,takes an interest in other people's lives
+F58,58,C,Conscientiousness,forward,wants everything to add up perfectly
+F59,59,N,Neuroticism,reverse,looks at the bright side of life
+F60,60,O,Openness,reverse,is easily intimidated
+F61,61,E,Extraversion,forward,starts conversations
+F62,62,A,Agreeableness,reverse,tells tall stories about himself/herself
+F63,63,C,Conscientiousness,reverse,leaves his/her work undone
+F64,64,N,Neuroticism,reverse,can take his/her mind off his/her problems
+F65,65,O,Openness,reverse,waits for others to lead the way
+F66,66,E,Extraversion,reverse,keeps others at a distance
+F67,67,A,Agreeableness,forward,likes to do things for others
+F68,68,C,Conscientiousness,forward,does things by the book
+F69,69,N,Neuroticism,reverse,knows how to control himself/herself
+F70,70,O,Openness,reverse,follows the crowd
+F71,71,E,Extraversion,reverse,prefers to be alone
+F72,72,A,Agreeableness,reverse,imposes his/her will on others
+F73,73,C,Conscientiousness,forward,works hard
+F74,74,N,Neuroticism,reverse,is sure of his/her ground
+F75,75,O,Openness,forward,reacts quickly
+F76,76,E,Extraversion,forward,acts comfortably with others
+F77,77,A,Agreeableness,reverse,wants to be in charge
+F78,78,C,Conscientiousness,reverse,is easily distracted
+F79,79,N,Neuroticism,forward,panics easily
+F80,80,O,Openness,forward,meets challenges
+F81,81,E,Extraversion,reverse,lives in a world of his/her own
+F82,82,A,Agreeableness,reverse,does most of the talking
+F83,83,O,Openness,forward,keeps his/her appointments
+F84,84,N,Neuroticism,forward,is down in the dumps
+F85,85,C,Conscientiousness,forward,knows what he/she wants
+F86,86,E,Extraversion,reverse,falls silent when strangers are around
+F87,87,A,Agreeableness,forward,respects the opinions of others
+F88,88,C,Conscientiousness,forward,likes to be well prepared
+F89,89,N,Neuroticism,forward,loses his/her temper
+F90,90,O,Openness,reverse,is easy to fool
+F91,91,E,Extraversion,forward,makes friends easily
+F92,92,A,Agreeableness,reverse,orders people around
+F93,93,C,Conscientiousness,reverse,does unexpected things
+F94,94,N,Neuroticism,forward,worries about things
+F95,95,O,Openness,forward,is full of ideas
+F96,96,E,Extraversion,forward,radiates joy
+F97,97,A,Agreeableness,reverse,demands to be the center of interest
+F98,98,C,Conscientiousness,reverse,neglects his/her duties
+F99,99,N,Neuroticism,reverse,keeps a cool head
+F100,100,O,Openness,forward,engages in discussions

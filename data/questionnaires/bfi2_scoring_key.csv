@@ -1,0 +1,6 @@
+response_code,answer_choice,points
+1,Disagree strongly,1
+2,Disagree a little,2
+3,Neutral; no opinion,3
+4,Agree a little,4
+5,Agree strongly,5

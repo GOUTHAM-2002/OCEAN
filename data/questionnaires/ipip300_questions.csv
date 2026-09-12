@@ -1,0 +1,301 @@
+item_id,item_number,domain_code,domain,facet_code,facet,scoring_direction,question_text
+I1,1,N,Neuroticism,N1,Anxiety,forward,Worry about things.
+I2,2,E,Extraversion,E1,Friendliness,forward,Make friends easily.
+I3,3,O,Openness,O1,Imagination,forward,Have a vivid imagination.
+I4,4,A,Agreeableness,A1,Trust,forward,Trust others.
+I5,5,C,Conscientiousness,C1,Self-Efficacy,forward,Complete tasks successfully.
+I6,6,N,Neuroticism,N2,Anger,forward,Get angry easily.
+I7,7,E,Extraversion,E2,Gregariousness,forward,Love large parties.
+I8,8,O,Openness,O2,Artistic Interests,forward,Believe in the importance of art.
+I9,9,A,Agreeableness,A2,Morality,reverse,Use others for my own ends.
+I10,10,C,Conscientiousness,C2,Orderliness,forward,Like to tidy up.
+I11,11,N,Neuroticism,N3,Depression,forward,Often feel blue.
+I12,12,E,Extraversion,E3,Assertiveness,forward,Take charge.
+I13,13,O,Openness,O3,Emotionality,forward,Experience my emotions intensely.
+I14,14,A,Agreeableness,A3,Altruism,forward,Love to help others.
+I15,15,C,Conscientiousness,C3,Dutifulness,forward,Keep my promises.
+I16,16,N,Neuroticism,N4,Self-Consciousness,forward,Find it difficult to approach others.
+I17,17,E,Extraversion,E4,Activity Level,forward,Am always busy.
+I18,18,O,Openness,O4,Adventurousness,forward,Prefer variety to routine.
+I19,19,A,Agreeableness,A4,Cooperation,reverse,Love a good fight.
+I20,20,C,Conscientiousness,C4,Achievement-Striving,forward,Work hard.
+I21,21,N,Neuroticism,N5,Immoderation,forward,Go on binges.
+I22,22,E,Extraversion,E5,Excitement-Seeking,forward,Love excitement.
+I23,23,O,Openness,O5,Intellect,forward,Love to read challenging material.
+I24,24,A,Agreeableness,A5,Modesty,reverse,Believe that I am better than others.
+I25,25,C,Conscientiousness,C5,Self-Discipline,forward,Am always prepared.
+I26,26,N,Neuroticism,N6,Vulnerability,forward,Panic easily.
+I27,27,E,Extraversion,E6,Cheerfulness,forward,Radiate joy.
+I28,28,O,Openness,O6,Liberalism,forward,Tend to vote for liberal political candidates.
+I29,29,A,Agreeableness,A6,Sympathy,forward,Sympathize with the homeless.
+I30,30,C,Conscientiousness,C6,Cautiousness,reverse,Jump into things without thinking.
+I31,31,N,Neuroticism,N1,Anxiety,forward,Fear for the worst.
+I32,32,E,Extraversion,E1,Friendliness,forward,Feel comfortable around people.
+I33,33,O,Openness,O1,Imagination,forward,Enjoy wild flights of fantasy.
+I34,34,A,Agreeableness,A1,Trust,forward,Believe that others have good intentions.
+I35,35,C,Conscientiousness,C1,Self-Efficacy,forward,Excel in what I do.
+I36,36,N,Neuroticism,N2,Anger,forward,Get irritated easily.
+I37,37,E,Extraversion,E2,Gregariousness,forward,Talk to a lot of different people at parties.
+I38,38,O,Openness,O2,Artistic Interests,forward,See beauty in things that others might not notice.
+I39,39,A,Agreeableness,A2,Morality,reverse,Cheat to get ahead.
+I40,40,C,Conscientiousness,C2,Orderliness,reverse,Often forget to put things back in their proper place.
+I41,41,N,Neuroticism,N3,Depression,forward,Dislike myself.
+I42,42,E,Extraversion,E3,Assertiveness,forward,Try to lead others.
+I43,43,O,Openness,O3,Emotionality,forward,Feel others' emotions.
+I44,44,A,Agreeableness,A3,Altruism,forward,Am concerned about others.
+I45,45,C,Conscientiousness,C3,Dutifulness,forward,Tell the truth.
+I46,46,N,Neuroticism,N4,Self-Consciousness,forward,Am afraid to draw attention to myself.
+I47,47,E,Extraversion,E4,Activity Level,forward,Am always on the go.
+I48,48,O,Openness,O4,Adventurousness,reverse,Prefer to stick with things that I know.
+I49,49,A,Agreeableness,A4,Cooperation,reverse,Yell at people.
+I50,50,C,Conscientiousness,C4,Achievement-Striving,forward,Do more than what's expected of me.
+I51,51,N,Neuroticism,N5,Immoderation,reverse,Rarely overindulge.
+I52,52,E,Extraversion,E5,Excitement-Seeking,forward,Seek adventure.
+I53,53,O,Openness,O5,Intellect,reverse,Avoid philosophical discussions.
+I54,54,A,Agreeableness,A5,Modesty,reverse,Think highly of myself.
+I55,55,C,Conscientiousness,C5,Self-Discipline,forward,Carry out my plans.
+I56,56,N,Neuroticism,N6,Vulnerability,forward,Become overwhelmed by events.
+I57,57,E,Extraversion,E6,Cheerfulness,forward,Have a lot of fun.
+I58,58,O,Openness,O6,Liberalism,forward,Believe that there is no absolute right or wrong.
+I59,59,A,Agreeableness,A6,Sympathy,forward,Feel sympathy for those who are worse off than myself.
+I60,60,C,Conscientiousness,C6,Cautiousness,reverse,Make rash decisions.
+I61,61,N,Neuroticism,N1,Anxiety,forward,Am afraid of many things.
+I62,62,E,Extraversion,E1,Friendliness,reverse,Avoid contacts with others.
+I63,63,O,Openness,O1,Imagination,forward,Love to daydream.
+I64,64,A,Agreeableness,A1,Trust,forward,Trust what people say.
+I65,65,C,Conscientiousness,C1,Self-Efficacy,forward,Handle tasks smoothly.
+I66,66,N,Neuroticism,N2,Anger,forward,Lose my temper.
+I67,67,E,Extraversion,E2,Gregariousness,reverse,Prefer to be alone.
+I68,68,O,Openness,O2,Artistic Interests,reverse,Do not like poetry.
+I69,69,A,Agreeableness,A2,Morality,reverse,Take advantage of others.
+I70,70,C,Conscientiousness,C2,Orderliness,reverse,Leave a mess in my room.
+I71,71,N,Neuroticism,N3,Depression,forward,Am often down in the dumps.
+I72,72,E,Extraversion,E3,Assertiveness,forward,Take control of things.
+I73,73,O,Openness,O3,Emotionality,reverse,Rarely notice my emotional reactions.
+I74,74,A,Agreeableness,A3,Altruism,reverse,Am indifferent to the feelings of others.
+I75,75,C,Conscientiousness,C3,Dutifulness,reverse,Break rules.
+I76,76,N,Neuroticism,N4,Self-Consciousness,forward,Only feel comfortable with friends.
+I77,77,E,Extraversion,E4,Activity Level,forward,Do a lot in my spare time.
+I78,78,O,Openness,O4,Adventurousness,reverse,Dislike changes.
+I79,79,A,Agreeableness,A4,Cooperation,reverse,Insult people.
+I80,80,C,Conscientiousness,C4,Achievement-Striving,reverse,Do just enough work to get by.
+I81,81,N,Neuroticism,N5,Immoderation,reverse,Easily resist temptations.
+I82,82,E,Extraversion,E5,Excitement-Seeking,forward,Enjoy being reckless.
+I83,83,O,Openness,O5,Intellect,reverse,Have difficulty understanding abstract ideas.
+I84,84,A,Agreeableness,A5,Modesty,reverse,Have a high opinion of myself.
+I85,85,C,Conscientiousness,C5,Self-Discipline,reverse,Waste my time.
+I86,86,N,Neuroticism,N6,Vulnerability,forward,Feel that I'm unable to deal with things.
+I87,87,E,Extraversion,E6,Cheerfulness,forward,Love life.
+I88,88,O,Openness,O6,Liberalism,reverse,Tend to vote for conservative political candidates.
+I89,89,A,Agreeableness,A6,Sympathy,reverse,Am not interested in other people's problems.
+I90,90,C,Conscientiousness,C6,Cautiousness,reverse,Rush into things.
+I91,91,N,Neuroticism,N1,Anxiety,forward,Get stressed out easily.
+I92,92,E,Extraversion,E1,Friendliness,reverse,Keep others at a distance.
+I93,93,O,Openness,O1,Imagination,forward,Like to get lost in thought.
+I94,94,A,Agreeableness,A1,Trust,reverse,Distrust people.
+I95,95,C,Conscientiousness,C1,Self-Efficacy,forward,Know how to get things done.
+I96,96,N,Neuroticism,N2,Anger,reverse,Am not easily annoyed.
+I97,97,E,Extraversion,E2,Gregariousness,reverse,Avoid crowds.
+I98,98,O,Openness,O2,Artistic Interests,reverse,Do not enjoy going to art museums.
+I99,99,A,Agreeableness,A2,Morality,reverse,Obstruct others' plans.
+I100,100,C,Conscientiousness,C2,Orderliness,reverse,Leave my belongings around.
+I101,101,N,Neuroticism,N3,Depression,reverse,Feel comfortable with myself.
+I102,102,E,Extraversion,E3,Assertiveness,reverse,Wait for others to lead the way.
+I103,103,O,Openness,O3,Emotionality,reverse,Don't understand people who get emotional.
+I104,104,A,Agreeableness,A3,Altruism,reverse,Take no time for others.
+I105,105,C,Conscientiousness,C3,Dutifulness,reverse,Break my promises.
+I106,106,N,Neuroticism,N4,Self-Consciousness,reverse,Am not bothered by difficult social situations.
+I107,107,E,Extraversion,E4,Activity Level,reverse,Like to take it easy.
+I108,108,O,Openness,O4,Adventurousness,reverse,Am attached to conventional ways.
+I109,109,A,Agreeableness,A4,Cooperation,reverse,Get back at others.
+I110,110,C,Conscientiousness,C4,Achievement-Striving,reverse,Put little time and effort into my work.
+I111,111,N,Neuroticism,N5,Immoderation,reverse,Am able to control my cravings.
+I112,112,E,Extraversion,E5,Excitement-Seeking,forward,Act wild and crazy.
+I113,113,O,Openness,O5,Intellect,reverse,Am not interested in theoretical discussions.
+I114,114,A,Agreeableness,A5,Modesty,reverse,Boast about my virtues.
+I115,115,C,Conscientiousness,C5,Self-Discipline,reverse,Have difficulty starting tasks.
+I116,116,N,Neuroticism,N6,Vulnerability,reverse,Remain calm under pressure.
+I117,117,E,Extraversion,E6,Cheerfulness,forward,Look at the bright side of life.
+I118,118,O,Openness,O6,Liberalism,reverse,Believe that we should be tough on crime.
+I119,119,A,Agreeableness,A6,Sympathy,reverse,Try not to think about the needy.
+I120,120,C,Conscientiousness,C6,Cautiousness,reverse,Act without thinking.
+I121,121,A,Agreeableness,A2,Morality,forward,Would never cheat on my taxes.
+I122,122,C,Conscientiousness,C2,Orderliness,forward,Like order.
+I123,123,A,Agreeableness,A3,Altruism,forward,Make people feel welcome.
+I124,124,C,Conscientiousness,C3,Dutifulness,forward,Try to follow the rules.
+I125,125,N,Neuroticism,N4,Self-Consciousness,forward,Am easily intimidated.
+I126,126,A,Agreeableness,A4,Cooperation,forward,Am easy to satisfy.
+I127,127,C,Conscientiousness,C4,Achievement-Striving,forward,Go straight for the goal.
+I128,128,N,Neuroticism,N5,Immoderation,forward,Often eat too much.
+I129,129,O,Openness,O5,Intellect,forward,Like to solve complex problems.
+I130,130,A,Agreeableness,A5,Modesty,forward,Dislike being the center of attention.
+I131,131,C,Conscientiousness,C5,Self-Discipline,forward,Get chores done right away.
+I132,132,C,Conscientiousness,C6,Cautiousness,forward,Avoid mistakes.
+I133,133,E,Extraversion,E1,Friendliness,forward,Warm up quickly to others.
+I134,134,O,Openness,O2,Artistic Interests,forward,Like music.
+I135,135,A,Agreeableness,A2,Morality,forward,Stick to the rules.
+I136,136,A,Agreeableness,A3,Altruism,forward,Anticipate the needs of others.
+I137,137,N,Neuroticism,N4,Self-Consciousness,forward,Am afraid that I will do the wrong thing.
+I138,138,O,Openness,O4,Adventurousness,forward,Like to visit new places.
+I139,139,A,Agreeableness,A4,Cooperation,forward,Can't stand confrontations.
+I140,140,N,Neuroticism,N5,Immoderation,forward,Don't know why I do some of the things I do.
+I141,141,A,Agreeableness,A5,Modesty,forward,Dislike talking about myself.
+I142,142,C,Conscientiousness,C6,Cautiousness,forward,Choose my words with care.
+I143,143,N,Neuroticism,N2,Anger,forward,Get upset easily.
+I144,144,E,Extraversion,E2,Gregariousness,forward,Enjoy being part of a group.
+I145,145,A,Agreeableness,A2,Morality,reverse,Use flattery to get ahead.
+I146,146,C,Conscientiousness,C2,Orderliness,forward,"Want everything to be ""just right."""
+I147,147,E,Extraversion,E3,Assertiveness,forward,Can talk others into doing things.
+I148,148,O,Openness,O3,Emotionality,forward,Am passionate about causes.
+I149,149,C,Conscientiousness,C3,Dutifulness,forward,Pay my bills on time.
+I150,150,O,Openness,O4,Adventurousness,forward,Interested in many things.
+I151,151,A,Agreeableness,A4,Cooperation,forward,Hate to seem pushy.
+I152,152,C,Conscientiousness,C4,Achievement-Striving,forward,Turn plans into actions.
+I153,153,N,Neuroticism,N5,Immoderation,forward,Do things I later regret.
+I154,154,E,Extraversion,E5,Excitement-Seeking,forward,Love action.
+I155,155,O,Openness,O5,Intellect,forward,Have a rich vocabulary.
+I156,156,A,Agreeableness,A5,Modesty,forward,Consider myself an average person.
+I157,157,C,Conscientiousness,C5,Self-Discipline,forward,Start tasks right away.
+I158,158,E,Extraversion,E6,Cheerfulness,forward,Express childlike joy.
+I159,159,O,Openness,O6,Liberalism,forward,Believe that criminals should receive help rather than punishment.
+I160,160,A,Agreeableness,A6,Sympathy,forward,Value cooperation over competition.
+I161,161,C,Conscientiousness,C6,Cautiousness,forward,Stick to my chosen path.
+I162,162,E,Extraversion,E1,Friendliness,forward,Act comfortably with others.
+I163,163,A,Agreeableness,A1,Trust,forward,Believe that people are basically moral.
+I164,164,C,Conscientiousness,C1,Self-Efficacy,forward,Am sure of my ground.
+I165,165,N,Neuroticism,N2,Anger,forward,Am often in a bad mood.
+I166,166,E,Extraversion,E2,Gregariousness,forward,Involve others in what I am doing.
+I167,167,O,Openness,O2,Artistic Interests,forward,Love flowers.
+I168,168,C,Conscientiousness,C2,Orderliness,forward,Love order and regularity.
+I169,169,N,Neuroticism,N3,Depression,forward,Have a low opinion of myself.
+I170,170,E,Extraversion,E3,Assertiveness,forward,Seek to influence others.
+I171,171,O,Openness,O3,Emotionality,forward,Enjoy examining myself and my life.
+I172,172,E,Extraversion,E4,Activity Level,forward,Can manage many things at the same time.
+I173,173,O,Openness,O4,Adventurousness,forward,Like to begin new things.
+I174,174,A,Agreeableness,A4,Cooperation,reverse,Have a sharp tongue.
+I175,175,C,Conscientiousness,C4,Achievement-Striving,forward,Plunge into tasks with all my heart.
+I176,176,E,Extraversion,E5,Excitement-Seeking,forward,Enjoy being part of a loud crowd.
+I177,177,O,Openness,O5,Intellect,forward,Can handle a lot of information.
+I178,178,A,Agreeableness,A5,Modesty,forward,Seldom toot my own horn.
+I179,179,C,Conscientiousness,C5,Self-Discipline,forward,Get to work at once.
+I180,180,N,Neuroticism,N6,Vulnerability,forward,Can't make up my mind.
+I181,181,E,Extraversion,E6,Cheerfulness,forward,Laugh my way through life.
+I182,182,O,Openness,O6,Liberalism,reverse,Believe in one true religion.
+I183,183,A,Agreeableness,A6,Sympathy,forward,Suffer from others' sorrows.
+I184,184,N,Neuroticism,N1,Anxiety,forward,Get caught up in my problems.
+I185,185,E,Extraversion,E1,Friendliness,forward,Cheer people up.
+I186,186,O,Openness,O1,Imagination,forward,Indulge in my fantasies.
+I187,187,A,Agreeableness,A1,Trust,forward,Believe in human goodness.
+I188,188,C,Conscientiousness,C1,Self-Efficacy,forward,Come up with good solutions.
+I189,189,E,Extraversion,E2,Gregariousness,forward,Love surprise parties.
+I190,190,O,Openness,O2,Artistic Interests,forward,Enjoy the beauty of nature.
+I191,191,A,Agreeableness,A2,Morality,reverse,Know how to get around the rules.
+I192,192,C,Conscientiousness,C2,Orderliness,forward,Do things according to a plan.
+I193,193,N,Neuroticism,N3,Depression,forward,Have frequent mood swings.
+I194,194,O,Openness,O3,Emotionality,forward,Try to understand myself.
+I195,195,A,Agreeableness,A3,Altruism,forward,Have a good word for everyone.
+I196,196,C,Conscientiousness,C3,Dutifulness,forward,Listen to my conscience.
+I197,197,E,Extraversion,E4,Activity Level,forward,React quickly.
+I198,198,A,Agreeableness,A4,Cooperation,reverse,Contradict others.
+I199,199,N,Neuroticism,N5,Immoderation,forward,Love to eat.
+I200,200,O,Openness,O5,Intellect,forward,Enjoy thinking about things.
+I201,201,N,Neuroticism,N6,Vulnerability,forward,Get overwhelmed by emotions.
+I202,202,N,Neuroticism,N1,Anxiety,reverse,Am not easily bothered by things.
+I203,203,E,Extraversion,E1,Friendliness,reverse,Am hard to get to know.
+I204,204,O,Openness,O1,Imagination,forward,Spend time reflecting on things.
+I205,205,A,Agreeableness,A1,Trust,forward,Think that all will be well.
+I206,206,N,Neuroticism,N2,Anger,reverse,Rarely get irritated.
+I207,207,O,Openness,O2,Artistic Interests,reverse,Do not like art.
+I208,208,N,Neuroticism,N3,Depression,forward,Feel desperate.
+I209,209,O,Openness,O3,Emotionality,reverse,Seldom get emotional.
+I210,210,A,Agreeableness,A3,Altruism,reverse,Look down on others.
+I211,211,N,Neuroticism,N4,Self-Consciousness,forward,Stumble over my words.
+I212,212,C,Conscientiousness,C4,Achievement-Striving,forward,Set high standards for myself and others.
+I213,213,O,Openness,O5,Intellect,reverse,Am not interested in abstract ideas.
+I214,214,C,Conscientiousness,C5,Self-Discipline,reverse,Find it difficult to get down to work.
+I215,215,O,Openness,O6,Liberalism,reverse,Believe that too much tax money goes to support artists.
+I216,216,A,Agreeableness,A6,Sympathy,reverse,Tend to dislike soft-hearted people.
+I217,217,C,Conscientiousness,C6,Cautiousness,reverse,Like to act on a whim.
+I218,218,N,Neuroticism,N1,Anxiety,reverse,Am relaxed most of the time.
+I219,219,E,Extraversion,E1,Friendliness,reverse,Often feel uncomfortable around others.
+I220,220,O,Openness,O1,Imagination,reverse,Seldom daydream.
+I221,221,C,Conscientiousness,C1,Self-Efficacy,reverse,Misjudge situations.
+I222,222,N,Neuroticism,N2,Anger,reverse,Seldom get mad.
+I223,223,E,Extraversion,E2,Gregariousness,reverse,Want to be left alone.
+I224,224,A,Agreeableness,A2,Morality,reverse,Put people under pressure.
+I225,225,N,Neuroticism,N3,Depression,forward,Feel that my life lacks direction.
+I226,226,E,Extraversion,E3,Assertiveness,reverse,Keep in the background.
+I227,227,O,Openness,O3,Emotionality,reverse,Am not easily affected by my emotions.
+I228,228,N,Neuroticism,N4,Self-Consciousness,reverse,Am not embarrassed easily.
+I229,229,E,Extraversion,E4,Activity Level,reverse,Like to take my time.
+I230,230,O,Openness,O4,Adventurousness,reverse,Don't like the idea of change.
+I231,231,C,Conscientiousness,C4,Achievement-Striving,forward,Demand quality.
+I232,232,E,Extraversion,E5,Excitement-Seeking,forward,Willing to try anything once.
+I233,233,N,Neuroticism,N6,Vulnerability,reverse,Can handle complex problems.
+I234,234,E,Extraversion,E6,Cheerfulness,forward,Laugh aloud.
+I235,235,O,Openness,O6,Liberalism,reverse,Believe laws should be strictly enforced.
+I236,236,A,Agreeableness,A6,Sympathy,reverse,Believe in an eye for an eye.
+I237,237,N,Neuroticism,N1,Anxiety,reverse,Am not easily disturbed by events.
+I238,238,O,Openness,O1,Imagination,reverse,Do not have a good imagination.
+I239,239,A,Agreeableness,A1,Trust,reverse,Suspect hidden motives in others.
+I240,240,C,Conscientiousness,C1,Self-Efficacy,reverse,Don't understand things.
+I241,241,E,Extraversion,E2,Gregariousness,reverse,Don't like crowded events.
+I242,242,A,Agreeableness,A2,Morality,reverse,Pretend to be concerned for others.
+I243,243,N,Neuroticism,N3,Depression,reverse,Seldom feel blue.
+I244,244,E,Extraversion,E3,Assertiveness,reverse,Have little to say.
+I245,245,A,Agreeableness,A3,Altruism,reverse,Make people feel uncomfortable.
+I246,246,C,Conscientiousness,C3,Dutifulness,reverse,Get others to do my duties.
+I247,247,N,Neuroticism,N4,Self-Consciousness,reverse,Am comfortable in unfamiliar situations.
+I248,248,E,Extraversion,E4,Activity Level,reverse,Like a leisurely lifestyle.
+I249,249,O,Openness,O4,Adventurousness,reverse,Am a creature of habit.
+I250,250,C,Conscientiousness,C4,Achievement-Striving,reverse,Am not highly motivated to succeed.
+I251,251,E,Extraversion,E5,Excitement-Seeking,forward,Seek danger.
+I252,252,A,Agreeableness,A5,Modesty,reverse,Know the answers to many questions.
+I253,253,C,Conscientiousness,C5,Self-Discipline,reverse,Need a push to get started.
+I254,254,N,Neuroticism,N6,Vulnerability,reverse,Know how to cope.
+I255,255,E,Extraversion,E6,Cheerfulness,forward,Amuse my friends.
+I256,256,O,Openness,O6,Liberalism,reverse,Believe that we coddle criminals too much.
+I257,257,C,Conscientiousness,C6,Cautiousness,reverse,Do crazy things.
+I258,258,N,Neuroticism,N1,Anxiety,reverse,Don't worry about things that have already happened.
+I259,259,E,Extraversion,E1,Friendliness,reverse,Am not really interested in others.
+I260,260,O,Openness,O1,Imagination,reverse,Seldom get lost in thought.
+I261,261,A,Agreeableness,A1,Trust,reverse,Am wary of others.
+I262,262,C,Conscientiousness,C1,Self-Efficacy,reverse,Have little to contribute.
+I263,263,N,Neuroticism,N2,Anger,reverse,Keep my cool.
+I264,264,O,Openness,O2,Artistic Interests,reverse,Do not like concerts.
+I265,265,C,Conscientiousness,C2,Orderliness,reverse,Am not bothered by messy people.
+I266,266,E,Extraversion,E3,Assertiveness,reverse,Don't like to draw attention to myself.
+I267,267,O,Openness,O3,Emotionality,reverse,Experience very few emotional highs and lows.
+I268,268,A,Agreeableness,A3,Altruism,reverse,Turn my back on others.
+I269,269,C,Conscientiousness,C3,Dutifulness,reverse,Do the opposite of what is asked.
+I270,270,E,Extraversion,E4,Activity Level,reverse,Let things proceed at their own pace.
+I271,271,O,Openness,O4,Adventurousness,reverse,Dislike new foods.
+I272,272,N,Neuroticism,N5,Immoderation,reverse,Never spend more than I can afford.
+I273,273,E,Extraversion,E5,Excitement-Seeking,reverse,Would never go hang gliding or bungee jumping.
+I274,274,N,Neuroticism,N6,Vulnerability,reverse,Readily overcome setbacks.
+I275,275,E,Extraversion,E6,Cheerfulness,reverse,Am not easily amused.
+I276,276,A,Agreeableness,A6,Sympathy,reverse,Believe people should fend for themselves.
+I277,277,N,Neuroticism,N1,Anxiety,reverse,Adapt easily to new situations.
+I278,278,O,Openness,O1,Imagination,reverse,Have difficulty imagining things.
+I279,279,A,Agreeableness,A1,Trust,reverse,Believe that people are essentially evil.
+I280,280,C,Conscientiousness,C1,Self-Efficacy,reverse,Don't see the consequences of things.
+I281,281,N,Neuroticism,N2,Anger,reverse,Rarely complain.
+I282,282,E,Extraversion,E2,Gregariousness,reverse,Seek quiet.
+I283,283,O,Openness,O2,Artistic Interests,reverse,Do not enjoy watching dance performances.
+I284,284,C,Conscientiousness,C2,Orderliness,reverse,Am not bothered by disorder.
+I285,285,N,Neuroticism,N3,Depression,reverse,Am very pleased with myself.
+I286,286,E,Extraversion,E3,Assertiveness,reverse,Hold back my opinions.
+I287,287,C,Conscientiousness,C3,Dutifulness,reverse,Misrepresent the facts.
+I288,288,N,Neuroticism,N4,Self-Consciousness,reverse,Am able to stand up for myself.
+I289,289,E,Extraversion,E4,Activity Level,reverse,React slowly.
+I290,290,A,Agreeableness,A4,Cooperation,reverse,Hold a grudge.
+I291,291,N,Neuroticism,N5,Immoderation,reverse,Never splurge.
+I292,292,E,Extraversion,E5,Excitement-Seeking,reverse,Dislike loud music.
+I293,293,O,Openness,O5,Intellect,reverse,Avoid difficult reading material.
+I294,294,A,Agreeableness,A5,Modesty,reverse,Make myself the center of attention.
+I295,295,C,Conscientiousness,C5,Self-Discipline,reverse,Postpone decisions.
+I296,296,N,Neuroticism,N6,Vulnerability,reverse,Am calm even in tense situations.
+I297,297,E,Extraversion,E6,Cheerfulness,reverse,Seldom joke around.
+I298,298,O,Openness,O6,Liberalism,reverse,Like to stand during the national anthem.
+I299,299,A,Agreeableness,A6,Sympathy,reverse,Can't stand weak people.
+I300,300,C,Conscientiousness,C6,Cautiousness,reverse,Often make last-minute plans.

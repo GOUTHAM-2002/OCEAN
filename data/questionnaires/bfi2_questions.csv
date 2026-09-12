@@ -1,0 +1,61 @@
+item_id,item_number,domain_code,domain,facet,scoring_direction,question_text
+Q1,1,E,Extraversion,Sociability,forward,"Is outgoing, sociable"
+Q2,2,A,Agreeableness,Compassion,forward,"Is compassionate, has a soft heart"
+Q3,3,C,Conscientiousness,Organization,reverse,Tends to be disorganized
+Q4,4,N,Negative Emotionality (Neuroticism),Anxiety,reverse,"Is relaxed, handles stress well"
+Q5,5,O,Open-Mindedness (Openness),Aesthetic Sensitivity,reverse,Has few artistic interests
+Q6,6,E,Extraversion,Assertiveness,forward,Has an assertive personality
+Q7,7,A,Agreeableness,Respectfulness,forward,"Is respectful, treats others with respect"
+Q8,8,C,Conscientiousness,Productiveness,reverse,Tends to be lazy
+Q9,9,N,Negative Emotionality (Neuroticism),Depression,reverse,Stays optimistic after experiencing a setback
+Q10,10,O,Open-Mindedness (Openness),Intellectual Curiosity,forward,Is curious about many different things
+Q11,11,E,Extraversion,Energy Level,reverse,Rarely feels excited or eager
+Q12,12,A,Agreeableness,Trust,reverse,Tends to find fault with others
+Q13,13,C,Conscientiousness,Responsibility,forward,"Is dependable, steady"
+Q14,14,N,Negative Emotionality (Neuroticism),Emotional Volatility,forward,"Is moody, has up and down mood swings"
+Q15,15,O,Open-Mindedness (Openness),Creative Imagination,forward,"Is inventive, finds clever ways to do things"
+Q16,16,E,Extraversion,Sociability,reverse,Tends to be quiet
+Q17,17,A,Agreeableness,Compassion,reverse,Feels little sympathy for others
+Q18,18,C,Conscientiousness,Organization,forward,"Is systematic, likes to keep things in order"
+Q19,19,N,Negative Emotionality (Neuroticism),Anxiety,forward,Can be tense
+Q20,20,O,Open-Mindedness (Openness),Aesthetic Sensitivity,forward,"Is fascinated by art, music, or literature"
+Q21,21,E,Extraversion,Assertiveness,forward,"Is dominant, acts as a leader"
+Q22,22,A,Agreeableness,Respectfulness,reverse,Starts arguments with others
+Q23,23,C,Conscientiousness,Productiveness,reverse,Has difficulty getting started on tasks
+Q24,24,N,Negative Emotionality (Neuroticism),Depression,reverse,"Feels secure, comfortable with self"
+Q25,25,O,Open-Mindedness (Openness),Intellectual Curiosity,reverse,"Avoids intellectual, philosophical discussions"
+Q26,26,E,Extraversion,Energy Level,reverse,Is less active than other people
+Q27,27,A,Agreeableness,Trust,forward,Has a forgiving nature
+Q28,28,C,Conscientiousness,Responsibility,reverse,Can be somewhat careless
+Q29,29,N,Negative Emotionality (Neuroticism),Emotional Volatility,reverse,"Is emotionally stable, not easily upset"
+Q30,30,O,Open-Mindedness (Openness),Creative Imagination,reverse,Has little creativity
+Q31,31,E,Extraversion,Sociability,reverse,"Is sometimes shy, introverted"
+Q32,32,A,Agreeableness,Compassion,forward,Is helpful and unselfish with others
+Q33,33,C,Conscientiousness,Organization,forward,Keeps things neat and tidy
+Q34,34,N,Negative Emotionality (Neuroticism),Anxiety,forward,Worries a lot
+Q35,35,O,Open-Mindedness (Openness),Aesthetic Sensitivity,forward,Values art and beauty
+Q36,36,E,Extraversion,Assertiveness,reverse,Finds it hard to influence people
+Q37,37,A,Agreeableness,Respectfulness,reverse,Is sometimes rude to others
+Q38,38,C,Conscientiousness,Productiveness,forward,"Is efficient, gets things done"
+Q39,39,N,Negative Emotionality (Neuroticism),Depression,forward,Often feels sad
+Q40,40,O,Open-Mindedness (Openness),Intellectual Curiosity,forward,"Is complex, a deep thinker"
+Q41,41,E,Extraversion,Energy Level,forward,Is full of energy
+Q42,42,A,Agreeableness,Trust,reverse,Is suspicious of others' intentions
+Q43,43,C,Conscientiousness,Responsibility,forward,"Is reliable, can always be counted on"
+Q44,44,N,Negative Emotionality (Neuroticism),Emotional Volatility,reverse,Keeps their emotions under control
+Q45,45,O,Open-Mindedness (Openness),Creative Imagination,reverse,Has difficulty imagining things
+Q46,46,E,Extraversion,Sociability,forward,Is talkative
+Q47,47,A,Agreeableness,Compassion,reverse,Can be cold and uncaring
+Q48,48,C,Conscientiousness,Organization,reverse,"Leaves a mess, doesn't clean up"
+Q49,49,N,Negative Emotionality (Neuroticism),Anxiety,reverse,Rarely feels anxious or afraid
+Q50,50,O,Open-Mindedness (Openness),Aesthetic Sensitivity,reverse,Thinks poetry and plays are boring
+Q51,51,E,Extraversion,Assertiveness,reverse,Prefers to have others take charge
+Q52,52,A,Agreeableness,Respectfulness,forward,"Is polite, courteous to others"
+Q53,53,C,Conscientiousness,Productiveness,forward,"Is persistent, works until the task is finished"
+Q54,54,N,Negative Emotionality (Neuroticism),Depression,forward,"Tends to feel depressed, blue"
+Q55,55,O,Open-Mindedness (Openness),Intellectual Curiosity,reverse,Has little interest in abstract ideas
+Q56,56,E,Extraversion,Energy Level,forward,Shows a lot of enthusiasm
+Q57,57,A,Agreeableness,Trust,forward,Assumes the best about people
+Q58,58,C,Conscientiousness,Responsibility,reverse,Sometimes behaves irresponsibly
+Q59,59,N,Negative Emotionality (Neuroticism),Emotional Volatility,forward,"Is temperamental, gets emotional easily"
+Q60,60,O,Open-Mindedness (Openness),Creative Imagination,forward,"Is original, comes up with new ideas"

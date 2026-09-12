@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+results_*.json
+*.log
+adapters_*/
+user_adapters*/
+out_adapter*/
+g_plots/
+hf_cache/
